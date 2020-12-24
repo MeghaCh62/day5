@@ -1,0 +1,26 @@
+
+.tables
+{
+     background:linear-gradient(to left,gray,purple);
+     width: auto;
+     height : 700px;
+    
+
+ }
+ .table
+ {
+     color:bisque
+ }
+ 
+.heading
+{
+    text-align: center;
+    font-family:cursive;
+    color:white
+  
+  
+}
+.title
+{
+  color:white;
+}
